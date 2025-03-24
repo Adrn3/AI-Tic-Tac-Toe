@@ -34,3 +34,11 @@ L'algorithme Minimax analyse tous les coups possibles et attribue un score à ch
 
 0 en cas d'égalité
 L'élagage alpha-bêta optimise la recherche en évitant d'explorer des branches inutiles.
+
+## Dépendances
+Bibliothèques utilisées :
+Tkinter
+
+## Licence
+Adrien Ponchard
+
