@@ -22,7 +22,7 @@ Assurez-vous d'avoir Python installé sur votre machine.
 git clone https://github.com/Adrn3/AI-Tic-Tac-Toe.git
 
 # Exécutez le script
-python main.py
+python morpion.py
 
 ## 🧠 Algorithme Minimax
 
