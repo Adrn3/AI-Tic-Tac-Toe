@@ -19,11 +19,13 @@ Assurez-vous d'avoir Python installé sur votre machine.
      sudo apt install python3.10
      ```
 # Clonez ce dépôt
-git clone https://github.com/Adrn3/AI-Tic-Tac-Toe.git
-
+     ```bash
+     git clone https://github.com/Adrn3/AI-Tic-Tac-Toe.git
+     ```
 # Exécutez le script
-python morpion.py
-
+     ```bash
+     python morpion.py
+     ```
 ## 🧠 Algorithme Minimax
 
 L'algorithme Minimax analyse tous les coups possibles et attribue un score à chaque état du jeu :
