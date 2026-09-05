@@ -12,7 +12,6 @@ Algorithme Minimax optimisé pour des décisions stratégiques
 
 ## 📦 Installation
 
-Assurez-vous d'avoir Python installé sur votre machine.
 - **Windows** : Téléchargez Python depuis [python.org](https://www.python.org/). 
 - **Linux** : Installez Python via la commande :  
      ```bash
